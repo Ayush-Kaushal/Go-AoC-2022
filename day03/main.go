@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"os"
 	"strings"
-	// "unicode"
 )
 
 func ReadInput(filename string) []string {
